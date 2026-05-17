@@ -1,17 +1,35 @@
-# my_first_app
+# Student Result Management System
 
-A new Flutter project.
+A Flutter-based student result management application designed to automate result processing for schools and teachers.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Multi-student result calculation
+* Subject-wise marks entry
+* Automatic percentage calculation
+* Grade generation
+* Division and remarks system
+* Leaderboard and student ranking
+* Beautiful multi-screen Flutter UI
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Flutter
+* Dart
+* FlutterFlow UI
+* Android Studio
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Structure
+
+* Splash Screen
+* Setup Screen
+* Student Marks Entry
+* Result Screen
+* Leaderboard Screen
+
+## Future Improvements
+
+* Firebase database integration
+* Result history storage
+* PDF export functionality
+* Teacher login system
