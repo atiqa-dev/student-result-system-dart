@@ -1,22 +1,49 @@
+# Student Result Management App
 
-# Student Result System (Dart)
+A Flutter-based mobile application developed for managing student academic records, calculating percentages, grades, divisions, and displaying leaderboard positions.
 
-This is a console-based application built using Dart.
+## Features
 
- Features:
-- Takes student information (Name, Roll No, Class, Section)
-- Accepts marks for multiple subjects
-- Calculates percentage
-- Assigns grades automatically
-- Displays total and subject-wise results
+* Multi-screen Flutter UI
+* Student marks management
+* Percentage calculation system
+* Grade & division system
+* Remarks generation
+* Leaderboard ranking
+* FlutterFlow-designed UI
 
- Concepts Used:
-- Functions
-- Lists / Maps
-- User Input
-- Conditional Logic
+## Technologies Used
 
- Future Improvements:
-- Dynamic subject input
-- Data storage
-- Flutter UI integration
+* Flutter
+* Dart
+* FlutterFlow
+* Material UI
+
+## Screenshots
+
+### Splash Screen
+
+![Splash Screen](screenshots/splash_screen.png)
+
+### Setup Screen
+
+![Setup Screen](screenshots/setup_screen.png)
+
+### Marks Entry Screen
+
+![Marks Entry](screenshots/marks_screen.png)
+
+### Result Screen
+
+![Result Screen](screenshots/result_screen.png)
+
+### Leaderboard Screen
+
+![Leaderboard](screenshots/leaderboard_screen.png)
+
+## Future Improvements
+
+* Firebase integration
+* Cloud data storage
+* PDF result export
+* Authentication system
